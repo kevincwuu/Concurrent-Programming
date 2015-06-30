@@ -1,0 +1,14 @@
+Output: 
+
+Producer now has id #1
+Consumer #1 now has value 158
+Producer now has id #2
+Consumer #2 now has value 453
+Consumer #3 now has value 92
+Producer now has id #3
+Consumer #5 now has value 177
+Producer now has id #5
+Producer now has id #4
+Consumer #4 now has value 51
+Consumer #6 now has value 421
+Producer now has id #6
