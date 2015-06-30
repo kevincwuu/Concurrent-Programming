@@ -1,0 +1,178 @@
+OUTPUT:
+RUN:
+Supplier 1 sleeps for 28 milliseconds.
+Consumer 1 enters waiting room.
+Supplier 10 sleeps for 25 milliseconds.
+Consumer 10 enters waiting room.
+Supplier #4 produces random data: 441.
+Supplier 4 enters meeting room/leaves data for consumer #4in CONTAINER ONE.
+Consumer 10 enters waiting room.
+Consumer 1 enters waiting room.
+Supplier #1 produces random data: 210.
+Supplier 1 enters meeting room/leaves data for consumer #1 in CONTAINER TWO.
+Consumer 1 enters meeting room / removes random data from container two: 441.
+Consumer #1 got: 210
+Consumer 10 enters waiting room.
+Supplier 7 sleeps for 64 milliseconds.
+Consumer 7 enters waiting room.
+Supplier 3 sleeps for 139 milliseconds.
+Consumer 3 enters waiting room.
+Supplier #9 produces random data: 121.
+Supplier 9 enters meeting room/leaves data for consumer #9 in CONTAINER TWO.
+Consumer 3 enters waiting room.
+Consumer 7 enters waiting room.
+Consumer 10 enters waiting room.
+Supplier #7 produces random data: 429.
+Supplier 7 enters waiting room.
+Supplier #5 produces random data: 457.
+Supplier 5 enters waiting room.
+Supplier #1 produces random data: 48.
+Supplier 1 enters waiting room.
+Supplier #2 produces random data: 70.
+Supplier 2 enters waiting room.
+Supplier 8 sleeps for 550 milliseconds.
+Consumer 8 enters waiting room.
+Supplier 5 sleeps for 621 milliseconds.
+Consumer 5 enters waiting room.
+Supplier #3 produces random data: 428.
+Supplier 3 enters waiting room.
+Supplier #8 produces random data: 255.
+Supplier 8 enters waiting room.
+Supplier 4 sleeps for 798 milliseconds.
+Consumer 4 enters meeting room / removes random data from container one: 441.
+Consumer #4 got: 441
+Supplier 8 enters meeting room/leaves data for consumer #8in CONTAINER ONE.
+Supplier 3 enters waiting room.
+Consumer 5 enters waiting room.
+Consumer 8 enters meeting room / removes random data from container one: 255.
+Consumer #8 got: 255
+Supplier 2 enters meeting room/leaves data for consumer #2in CONTAINER ONE.
+Supplier 1 enters waiting room.
+Supplier 5 enters waiting room.
+Supplier 7 enters waiting room.
+Consumer 10 enters waiting room.
+Consumer 7 enters waiting room.
+Consumer 3 enters waiting room.
+Consumer 5 enters waiting room.
+Supplier 3 enters waiting room.
+Supplier #6 produces random data: 251.
+Supplier 6 enters waiting room.
+Supplier #10 produces random data: 318.
+Supplier 10 enters waiting room.
+Supplier 6 sleeps for 814 milliseconds.
+Consumer 6 enters waiting room.
+Supplier 2 sleeps for 850 milliseconds.
+Consumer 2 enters meeting room / removes random data from container one: 70.
+Consumer #2 got: 70
+Consumer 6 enters waiting room.
+Supplier 10 enters meeting room/leaves data for consumer #10in CONTAINER ONE.
+Supplier 6 enters waiting room.
+Supplier 3 enters waiting room.
+Consumer 5 enters waiting room.
+Consumer 3 enters waiting room.
+Consumer 7 enters waiting room.
+Consumer 10 enters meeting room / removes random data from container one: 318.
+Consumer #10 got: 318
+Supplier 7 enters meeting room/leaves data for consumer #7in CONTAINER ONE.
+Supplier 5 enters waiting room.
+Supplier 1 enters waiting room.
+Consumer 7 enters meeting room / removes random data from container one: 429.
+Consumer #7 got: 429
+Consumer 3 enters waiting room.
+Consumer 5 enters waiting room.
+Supplier 3 enters meeting room/leaves data for consumer #3in CONTAINER ONE.
+Supplier 6 enters waiting room.
+Consumer 6 enters waiting room.
+Consumer 5 enters waiting room.
+Consumer 3 enters meeting room / removes random data from container one: 428.
+Consumer #3 got: 428
+Supplier 1 enters meeting room/leaves data for consumer #1in CONTAINER ONE.
+Supplier 5 enters waiting room.
+Consumer 5 enters waiting room.
+Consumer 6 enters waiting room.
+Supplier 6 enters waiting room.
+Supplier 1 sleeps for 853 milliseconds.
+Consumer 1 enters meeting room / removes random data from container one: 48.
+Consumer #1 got: 48
+Supplier 6 enters meeting room/leaves data for consumer #6in CONTAINER ONE.
+Consumer 6 enters meeting room / removes random data from container one: 251.
+Consumer #6 got: 251
+Consumer 5 enters waiting room.
+Supplier 5 enters meeting room/leaves data for consumer #5in CONTAINER ONE.
+Consumer 5 enters meeting room / removes random data from container one: 457.
+Consumer #5 got: 457
+Supplier #6 produces random data: 361.
+Supplier 6 enters meeting room/leaves data for consumer #6in CONTAINER ONE.
+Supplier 9 sleeps for 924 milliseconds.
+Consumer 9 enters meeting room / removes random data from container two: 361.
+Consumer #9 got: 121
+Supplier 3 sleeps for 110 milliseconds.
+Consumer 3 enters waiting room.
+Supplier #9 produces random data: 122.
+Supplier 9 enters meeting room/leaves data for consumer #9 in CONTAINER TWO.
+Consumer 3 enters waiting room.
+Supplier #4 produces random data: 346.
+Supplier 4 enters waiting room.
+Supplier 4 sleeps for 288 milliseconds.
+Consumer 4 enters waiting room.
+Supplier 7 sleeps for 249 milliseconds.
+Consumer 7 enters waiting room.
+Supplier 10 sleeps for 282 milliseconds.
+Consumer 10 enters waiting room.
+Supplier #10 produces random data: 416.
+Supplier 10 enters waiting room.
+Supplier 9 sleeps for 265 milliseconds.
+Consumer 9 enters meeting room / removes random data from container two: 361.
+Consumer #9 got: 122
+Supplier 10 enters meeting room/leaves data for consumer #10 in CONTAINER TWO.
+Consumer 10 enters meeting room / removes random data from container two: 361.
+Consumer #10 got: 416
+Consumer 7 enters waiting room.
+Consumer 4 enters waiting room.
+Supplier 4 enters meeting room/leaves data for consumer #4 in CONTAINER TWO.
+Consumer 3 enters waiting room.
+Consumer 4 enters meeting room / removes random data from container two: 361.
+Consumer #4 got: 346
+Consumer 7 enters waiting room.
+Consumer 3 enters waiting room.
+Supplier 6 sleeps for 305 milliseconds.
+Consumer 6 enters meeting room / removes random data from container one: 361.
+Consumer #6 got: 361
+Consumer 3 enters waiting room.
+Consumer 7 enters waiting room.
+Supplier #8 produces random data: 472.
+Supplier 8 enters meeting room/leaves data for consumer #8in CONTAINER ONE.
+Consumer 7 enters waiting room.
+Consumer 3 enters waiting room.
+Supplier #7 produces random data: 372.
+Supplier 7 enters meeting room/leaves data for consumer #7 in CONTAINER TWO.
+Consumer 3 enters waiting room.
+Consumer 7 enters meeting room / removes random data from container two: 472.
+Consumer #7 got: 372
+Consumer 3 enters waiting room.
+Supplier 5 sleeps for 476 milliseconds.
+Consumer 5 enters waiting room.
+Supplier #2 produces random data: 206.
+Supplier 2 enters meeting room/leaves data for consumer #2 in CONTAINER TWO.
+Consumer 5 enters waiting room.
+Consumer 3 enters waiting room.
+Supplier 8 sleeps for 747 milliseconds.
+Consumer 8 enters meeting room / removes random data from container one: 472.
+Consumer #8 got: 472
+Consumer 3 enters waiting room.
+Consumer 5 enters waiting room.
+Supplier #3 produces random data: 150.
+Supplier 3 enters meeting room/leaves data for consumer #3in CONTAINER ONE.
+Consumer 5 enters waiting room.
+Consumer 3 enters meeting room / removes random data from container one: 150.
+Consumer #3 got: 150
+Consumer 5 enters waiting room.
+Supplier 2 sleeps for 942 milliseconds.
+Consumer 2 enters meeting room / removes random data from container two: null.
+Consumer #2 got: 206
+Consumer 5 enters waiting room.
+Supplier #5 produces random data: 232.
+Supplier 5 enters meeting room/leaves data for consumer #5in CONTAINER ONE.
+Consumer 5 enters meeting room / removes random data from container one: 232.
+Consumer #5 got: 232
+
